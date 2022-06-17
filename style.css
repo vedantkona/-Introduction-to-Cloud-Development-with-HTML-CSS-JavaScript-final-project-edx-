@@ -1,0 +1,25 @@
+body {
+    font-family:arial narrow;
+    color:white;   
+    background-image: url("compound.jpg");
+
+}
+h1{
+    color:rgb(2, 8, 39);
+    font-family:arial rgb(2, 8, 39);
+}
+.maindiv {
+    background-color:lightblue;
+    color:rgb(2, 8, 39);
+    width:480px;
+    margin: auto;
+    margin-top: 6cm;
+    padding:20px;
+    border-radius: 25px;
+    
+
+}
+
+table {
+    margin-left:100px;
+}
