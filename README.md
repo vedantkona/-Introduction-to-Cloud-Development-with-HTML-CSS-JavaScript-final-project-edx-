@@ -49,3 +49,9 @@ When the interest rate slider is moved to extreme left, the interest rate should
 When the interest rate slider is moved to extreme right, the interest rate should show as 20%. (1 mark)
 The slider can be moved to show the value as 4.75%. (1 mark)
 At the bottom of the calculator, there is a copyright symbol and the name of the owner. (1 mark)
+
+
+
+OUTPUT:
+![Output image](https://user-images.githubusercontent.com/100839341/174389616-36196e5d-3817-4efd-a30b-9a58ad8f447a.png)
+
